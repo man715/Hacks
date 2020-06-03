@@ -1,0 +1,14 @@
+GET https://ac1d1fd21f2f00c580de75c400000099.web-security-academy.net/ HTTP/1.1
+Connection: keep-alive
+Cache-Control: max-age=0
+DNT: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Language: en-ZA,en-GB;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: session=AWedAxZIG9HHd1S4kjsFLZqry8h3iWAC; fehost=prod-cache-01
+Host: ac1d1fd21f2f00c580de75c400000099.web-security-academy.net
